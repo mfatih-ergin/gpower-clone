@@ -144,4 +144,5 @@ tests/test_mcp_equivalence.py::test_mcp_cli_exact_equivalence PASSED     [100%]
 
 ## 8. Demo Videosu
 
-* **CLI Demo Videosu (60 saniye):** [LİNK: YouTube / Drive Demo Video Linki Eklenecek]
+* **CLI Demo Videosu (50 saniye):** [https://youtu.be/bddY5tO0c80](https://youtu.be/bddY5tO0c80) (YouTube)  
+* **Yerel Video Dosyası:** [`demo_video.webm`](demo_video.webm) (Repoda mevcut)
